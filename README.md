@@ -1,17 +1,17 @@
 # Course: Master Full-Stack AI Application Development: From Frontend to Deployment and Beyond
 
-Welcome to the AI-Powered Document Assistant Foundation Course! This hands-on course is designed to guide you through the process of building a production-grade AI application from scratch. By the end of this course, you will have developed an AI-powered document assistant capable of indexing documents and providing contextually relevant answers to user queries.
+Welcome to the course. This hands-on course is designed to guide you through the process of building a production-grade AI application from scratch. By the end of this course, you will have developed an AI-powered document assistant capable of indexing documents and providing contextually relevant answers to user queries, think of it as a chatbot that can answer questions about a set of documents.
 
 ## Course Overview
 
-This course is structured to provide a comprehensive understanding of the most current technologies and best practices in full-stack development, AI integration, containerization, orchestration, deployment, monitoring, and CI/CD. It is tailored for developers with intermediate experience in traditional frontend and backend development, but who are new to AI, DevOps, containers, or Kubernetes.
+This course is structured to provide a comprehensive understanding of the most current technologies and best practices in full-stack development, AI integration, containerization, orchestration, deployment, monitoring, and CI/CD. It is tailored for developers with intermediate experience in traditional frontend and backend development but who are new(ish) to AI, DevOps, containers, or Kubernetes.
 
 ## Prerequisites
 
 - Basic knowledge of TypeScript and Python
 - Familiarity with web application development concepts
 - Understanding of basic AI concepts and terminology
-- Git, Python and a code editor
+- Git, Python, and a code editor
 
 ## What We'll Cover
 
