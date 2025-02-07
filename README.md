@@ -1,4 +1,4 @@
-# Course: Master Full-Stack AI Application Development: From Frontend to Deployment and Beyond
+# Course: Master Full-Stack AI Application Development - From Frontend to Deployment and Beyond
 
 Welcome to the course. This hands-on course is designed to guide you through the process of building a production-grade AI application from scratch. By the end of this course, you will have developed an AI-powered task automation assistant capable of helping users automate common workflows, track tasks, and get insights into their productivity.
 
