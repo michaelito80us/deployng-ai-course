@@ -1,6 +1,6 @@
 # Course: Master Full-Stack AI Application Development: From Frontend to Deployment and Beyond
 
-Welcome to the course. This hands-on course is designed to guide you through the process of building a production-grade AI application from scratch. By the end of this course, you will have developed an AI-powered document assistant capable of indexing documents and providing contextually relevant answers to user queries, think of it as a chatbot that can answer questions about a set of documents.
+Welcome to the course. This hands-on course is designed to guide you through the process of building a production-grade AI application from scratch. By the end of this course, you will have developed an AI-powered task automation assistant capable of helping users automate common workflows, track tasks, and get insights into their productivity.
 
 ## Course Overview
 
@@ -17,9 +17,9 @@ This course is structured to provide a comprehensive understanding of the most c
 
 - **Frontend Development**: Build a responsive user interface using React and TypeScript.
 - **Backend Development**: Develop a robust API using FastAPI, focusing on RESTful design and error handling.
-- **AI Integration**: Implement AI tools like LangChain and LlamaIndex for document indexing and query processing.
+- **AI Integration**: Implement AI tools like LangChain and LlamaIndex for task retrieval, prioritization, and workflow suggestions based on the user's behavior.
 - **Security**: Learn to secure your application with authentication and authorization mechanisms.
-- **Data Management**: Explore document storage solutions and database management.
+- **Data Management**: Explore data storage solutions and task management.
 - **Asynchronous Processing**: Use message queues to handle background tasks efficiently.
 - **Containerization and Orchestration**: Deploy your application using Docker and Kubernetes.
 - **Cloud Deployment**: Understand cloud deployment strategies and cost optimization.
