@@ -1,4 +1,4 @@
-# AI-Powered Document Assistant - Foundation Course
+# Course: Master Full-Stack AI Application Development: From Frontend to Deployment and Beyond
 
 Welcome to the AI-Powered Document Assistant Foundation Course! This hands-on course is designed to guide you through the process of building a production-grade AI application from scratch. By the end of this course, you will have developed an AI-powered document assistant capable of indexing documents and providing contextually relevant answers to user queries.
 
