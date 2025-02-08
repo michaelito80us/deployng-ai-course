@@ -25,6 +25,7 @@ This course is structured to provide a comprehensive understanding of the most c
 - **Cloud Deployment**: Understand cloud deployment strategies and cost optimization.
 - **Testing and CI/CD**: Implement comprehensive testing strategies and automate deployments with CI/CD pipelines.
 - **Monitoring and Optimization**: Monitor application performance and optimize for scalability and reliability.
+- (SOON) **AI Agents**: Implement AI agents to handle complex tasks and workflows. 
 
 ## Course Structure
 
